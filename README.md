@@ -68,5 +68,5 @@ You can use netlify or free github.io for deployments
 
 ### Blog
 
-[Blog](https://medium.com/@rajrock38/create-react-app-the-easier-way-with-parcel-22a44d62c187)
+[create-react-app: The easier way with Parcel](https://medium.com/@rajrock38/create-react-app-the-easier-way-with-parcel-22a44d62c187)
 
