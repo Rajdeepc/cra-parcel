@@ -6,7 +6,7 @@ This boilerplate could help you start to play React Hooks APIs bundled with Parc
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/Rajdeepc/react-boilerplate-parcel-bundler.git
+git clone https://github.com/Rajdeepc/react-redux-parcel.git
 ```
 ```
 npm install
