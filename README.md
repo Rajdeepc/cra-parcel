@@ -1,4 +1,4 @@
-## React  Boilerplate with Parcel
+## A simple react redux boilerplate project to get started with Parcel bundler. The package contains React Bootstrap for response grid structure
 
 This boilerplate could help you start to play React Hooks APIs bundled with Parcel web bundler
 
